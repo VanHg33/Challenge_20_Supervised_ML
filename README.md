@@ -36,9 +36,9 @@ The dataset comprises 75,036 healthy loans and 2,500 high-risk loans. To conduct
 ## Summary 
 The machine learning models, particularly the logistic regression model, exhibit notable results. The model attains flawless accuracy in predicting healthy loans (0 label), achieving both 100% precision and recall. However, when it comes to predicting high-risk loans (1 label), precision stands at 87%, and recall at 89%, indicating a substantial margin of error in this specific category. Despite this, the overall accuracy score for the model is commendable at 99%, suggesting a generally effective model with room for improvement, particularly in identifying high-risk loans.
 
-If the primary concern is correctly identifying healthy loans (0 label), Model 1 appears to perform exceptionally well with perfect precision and recall. On the other hand, if the focus is on high-risk loans (1 label), the model's challenges in precision and recall indicate a potential area for improvement.
+If the primary concern is correctly identifying healthy loans (0 label), the current model of Logistic Regression appears to perform exceptionally well with perfect precision and recall. On the other hand, if the focus is on high-risk loans (1 label), the model's challenges in precision and recall indicate a potential area for improvement.
 
-The choice of which model performs best may hinge on the importance of accurate predictions in the specific problem scenario. For instance, if the consequences of misclassifying high-risk loans are more critical, there may be a need to explore additional models or techniques, such as resampling method, to enhance performance in that specific category.
+The choice of model performance may hinge on the importance of accurate predictions in the specific problem scenario. For instance, if the consequences of misclassifying high-risk loans are more critical, there may be a need to explore additional models or techniques, such as resampling method, to enhance performance in that specific category.
 
 
 
