@@ -17,13 +17,20 @@ The dataset comprises 75,036 healthy loans and 2,500 high-risk loans. To conduct
   - Create a Logistic Regression Model with the Original Data
 
 ## Results 
-**Machine Learning Model's Results:*
+**Machine Learning Model's Results:**
+  
   **- Accuracy:** 99%
-  - Precision:
+  
+  **- Precision:**
+              
               + Healthy Loans: 1.00
+              
               + High-Risk Loans: 0.87
-    - Recall:
+              
+  **- Recall:**
+  
               + Healthy Loans: 1.00
+              
               + High-Risk Loans: 0.89
 
 ## Summary 
