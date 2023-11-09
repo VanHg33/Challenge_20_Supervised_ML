@@ -18,7 +18,7 @@ The dataset comprises 75,036 healthy loans and 2,500 high-risk loans. To conduct
 
 ## Results 
 **Machine Learning Model's Results:**
-    - Accuracy: 99%
+    - Accuracy: 99
     - Precision:
               + Healthy Loans: 1.00
               + High-Risk Loans: 0.87
